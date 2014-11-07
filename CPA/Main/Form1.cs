@@ -15,6 +15,8 @@ namespace Main
         public Form1()
         {
             InitializeComponent();
+            int x = 10;
+
         }
     }
 }
