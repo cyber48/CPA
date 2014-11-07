@@ -15,3 +15,14 @@ C:\Users\Ciprian\Documents\estec\CPA\CPA\Main\obj\Debug\Main.csprojResolveAssemb
 C:\Users\Ciprian\Documents\estec\CPA\CPA\Main\obj\Debug\Main.Properties.Resources.resources
 C:\Users\Ciprian\Documents\estec\CPA\CPA\Main\obj\Debug\Main.csproj.GenerateResource.Cache
 C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\obj\Debug\Main.Login.resources
+C:\Users\Cristi\Desktop\EESTEC4\CPA\Main\bin\Debug\Main.exe.config
+C:\Users\Cristi\Desktop\EESTEC4\CPA\Main\obj\Debug\Main.exe
+C:\Users\Cristi\Desktop\EESTEC4\CPA\Main\obj\Debug\Main.pdb
+C:\Users\Cristi\Desktop\EESTEC4\CPA\Main\bin\Debug\Main.exe
+C:\Users\Cristi\Desktop\EESTEC4\CPA\Main\bin\Debug\Main.pdb
+C:\Users\Cristi\Desktop\EESTEC4\CPA\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Cristi\Desktop\EESTEC4\CPA\Main\obj\Debug\Main.Login.resources
+C:\Users\Cristi\Desktop\EESTEC4\CPA\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\Cristi\Desktop\EESTEC4\CPA\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Ciprian\Documents\estec\CPA\CPA\Main\obj\Debug\Main.Login.resources
+C:\Users\Ciprian\Documents\estec\CPA\CPA\Main\obj\Debug\Main.Main.resources
