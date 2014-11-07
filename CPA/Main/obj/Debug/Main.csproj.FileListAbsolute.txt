@@ -1,0 +1,8 @@
+C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\bin\Debug\Main.exe.config
+C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\bin\Debug\Main.exe
+C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\bin\Debug\Main.pdb
+C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\obj\Debug\Main.exe
+C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\obj\Debug\Main.pdb
