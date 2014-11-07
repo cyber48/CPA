@@ -14,3 +14,4 @@ C:\Users\Ciprian\Documents\estec\CPA\CPA\Main\bin\Debug\Main.pdb
 C:\Users\Ciprian\Documents\estec\CPA\CPA\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
 C:\Users\Ciprian\Documents\estec\CPA\CPA\Main\obj\Debug\Main.Properties.Resources.resources
 C:\Users\Ciprian\Documents\estec\CPA\CPA\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Programe\CPA\CPA\Main\obj\Debug\Main.Login.resources
